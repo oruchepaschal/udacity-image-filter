@@ -4,7 +4,23 @@
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 
-www/
+*~
+*.sw[mnpcod]
+*.log
+*.tmp
+*.tmp.*
+log.txt
+*.sublime-project
+*.sublime-workspace
+.vscode/
+npm-debug.log*
+
 .env
-.sh
+.idea/
+.ionic/
+.versions/
+coverage/
+www/
 node_modules/
+
+~*
