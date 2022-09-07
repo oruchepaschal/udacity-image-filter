@@ -3,3 +3,8 @@
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+www/
+.env
+.sh
+node_modules/
